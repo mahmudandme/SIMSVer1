@@ -1,0 +1,5 @@
+I:\VS_Mine\Web\MyProjects\SIMS\SIMS\bin\SIMS.dll.config
+I:\VS_Mine\Web\MyProjects\SIMS\SIMS\bin\SIMS.dll
+I:\VS_Mine\Web\MyProjects\SIMS\SIMS\bin\SIMS.pdb
+I:\VS_Mine\Web\MyProjects\SIMS\SIMS\obj\Debug\SIMS.dll
+I:\VS_Mine\Web\MyProjects\SIMS\SIMS\obj\Debug\SIMS.pdb
